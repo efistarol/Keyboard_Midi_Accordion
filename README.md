@@ -1,5 +1,5 @@
 # Keyboard_Midi_Accordion
-Small Processing Script that allows you to use a standard Computer-Keyboard as an accordion MIDI-Controller. As of now only mac with a QWERTZU-keyboard layout is supported. However, you can easily change the key mapping in the lookUP() function.
+Small Processing Script that allows you to use a standard Computer-Keyboard as an accordion MIDI-Controller. As of now only mac with a QWERTZU-keyboard layout is supported. However, you can easily change the key mapping in the lookUP() function. If you don't know how to code feel free to contact me.
 
 ## Installation
 ### *mac*
